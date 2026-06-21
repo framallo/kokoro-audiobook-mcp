@@ -1,0 +1,8 @@
+.build/
+**/.build/
+.swiftpm/
+*.log
+.DS_Store
+models/
+out/
+Package.resolved
