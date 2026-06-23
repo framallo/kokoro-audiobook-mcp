@@ -166,12 +166,22 @@ English works today; Spanish is blocked on a Swift Spanish G2P — see [TODO.md]
 
 ## Demo / Listen
 
-Short voice samples rendered by the Kokoro engine on the Apple Neural Engine
-(GitHub can't embed an audio player, so these are download links). Demo source
-texts live in [`demo/`](demo/).
+Short voice samples rendered by the Kokoro engine on the Apple Neural Engine.
+GitHub auto-renders these committed `.mp4` clips as inline video players (with
+an animated waveform), so you can play them right here. Demo source texts live
+in [`demo/`](demo/).
 
-- [English sample — `af_heart`](https://github.com/framallo/kokoro-audiobook-mcp/releases/download/v0.1.0/demo_en.mp3)
-- [Spanish sample — `ef_dora`](https://github.com/framallo/kokoro-audiobook-mcp/releases/download/v0.1.0/demo_es.mp3)
+**English — `af_heart`**
+
+https://github.com/framallo/kokoro-audiobook-mcp/raw/main/demo/demo_en.mp4
+
+**Spanish — `ef_dora`**
+
+https://github.com/framallo/kokoro-audiobook-mcp/raw/main/demo/demo_es.mp4
+
+Audio-only fallback (mp3):
+[English](https://github.com/framallo/kokoro-audiobook-mcp/releases/download/v0.1.0/demo_en.mp3) ·
+[Spanish](https://github.com/framallo/kokoro-audiobook-mcp/releases/download/v0.1.0/demo_es.mp3)
 
 ## Architecture
 
