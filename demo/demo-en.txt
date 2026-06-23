@@ -1,1 +1,1 @@
-There were rich islands and there were poor islands. On the rich ones, the animals had houses, food, tools, boats. On the poor ones, they worked from sunup to sundown and barely ate. Nobody really knew why. An old owl named Adam had crossed the sea, looking at island after island, to understand what made them different. In the end he stayed on this one, watching the harbor and the market from a tall ombú tree.
+This is a short demo of the Kokoro audiobook voice, rendered on the Apple Neural Engine. The same engine narrates whole books, chapter by chapter.
